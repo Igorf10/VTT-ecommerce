@@ -1,0 +1,128 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Luva de Boxe VTT Pro 14oz",
+      "category": "Luvas",
+      "price": 289.9,
+      "oldPrice": 349.9,
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1671856129092-ef4f4c412186?w=700&h=860&fit=crop&auto=format&q=80",
+      "description": "Couro sintético reforçado, espuma de alta densidade e fechamento em velcro. Desenvolvida com a equipe de treinadores da VTT para sparring e saco pesado.",
+      "brand": "Combat Pro"
+    },
+    {
+      "id": 2,
+      "name": "Caneleira MMA VTT Strike",
+      "category": "Proteção",
+      "price": 219.9,
+      "stock": 24,
+      "image": "https://images.unsplash.com/photo-1562679452-763edf60a0b7?w=700&h=860&fit=crop&auto=format&q=80",
+      "description": "Proteção total de canela e peito do pé, com ajuste elástico duplo. Ideal para treino de Muay Thai e MMA em alta intensidade.",
+      "brand": "Iron Fist"
+    },
+    {
+      "id": 3,
+      "name": "Kimono Jiu-Jitsu VTT Fightwear",
+      "category": "Kimonos",
+      "price": 449,
+      "stock": 12,
+      "image": "https://images.unsplash.com/photo-1555597408-26bc8e548a46?w=700&h=860&fit=crop&auto=format&q=80",
+      "description": "Tecido trançado reforçado nas costuras, gola pré-encolhida e corte competição. Aprovado para treino e campeonato.",
+      "brand": "Apex Fight"
+    },
+    {
+      "id": 4,
+      "name": "Faixa de Graduação VTT",
+      "category": "Kimonos",
+      "price": 69.9,
+      "stock": 40,
+      "image": "https://images.unsplash.com/photo-1555597408-26bc8e548a46?w=700&h=860&fit=crop&auto=format&q=80",
+      "description": "Faixa oficial VTT em algodão reforçado, disponível em todas as graduações. Bordado do brasão incluso.",
+      "brand": "Apex Fight"
+    },
+    {
+      "id": 5,
+      "name": "Bandagem Elástica VTT 3m",
+      "category": "Proteção",
+      "price": 39.9,
+      "stock": 60,
+      "image": "https://images.unsplash.com/photo-1622599490476-f804e3092019?w=700&h=860&fit=crop&auto=format&q=80",
+      "description": "Par de bandagens elásticas com fecho em velcro para proteção de punho e nós dos dedos antes da luva.",
+      "brand": "Combat Pro"
+    },
+    {
+      "id": 6,
+      "name": "Whey Protein VTT Fighter 900g",
+      "category": "Suplementos",
+      "price": 179.9,
+      "oldPrice": 219.9,
+      "stock": 30,
+      "image": "https://images.unsplash.com/photo-1693996045838-980674653385?w=700&h=860&fit=crop&auto=format&q=80",
+      "description": "Blend proteico de rápida absorção formulado para recuperação pós-treino de alta performance.",
+      "brand": "Fury Nutrition"
+    },
+    {
+      "id": 7,
+      "name": "Creatina VTT Combat 300g",
+      "category": "Suplementos",
+      "price": 99.9,
+      "stock": 35,
+      "image": "https://images.unsplash.com/photo-1693996045838-980674653385?w=700&h=860&fit=crop&auto=format&q=80",
+      "description": "Creatina monohidratada pura, sem sabor, para ganho de força e explosão nos treinos e lutas.",
+      "brand": "Fury Nutrition"
+    },
+    {
+      "id": 8,
+      "name": "Camiseta VTT Team Dry-Fit",
+      "category": "Vestuário",
+      "price": 89.9,
+      "stock": 50,
+      "image": "https://images.unsplash.com/photo-1602520628350-fbf9db1f02ae?w=700&h=860&fit=crop&auto=format&q=80",
+      "description": "Tecido tecnológico de secagem rápida com estampa do símbolo VTT. Uso dentro e fora do tatame.",
+      "brand": "Ringside"
+    },
+    {
+      "id": 9,
+      "name": "Shorts MMA VTT Fightshort",
+      "category": "Vestuário",
+      "price": 139.9,
+      "stock": 28,
+      "image": "https://images.unsplash.com/photo-1601588462735-8db8cab4847a?w=700&h=860&fit=crop&auto=format&q=80",
+      "description": "Cintura elástica com trava lateral e tecido stretch de alta mobilidade para chutes e quedas.",
+      "brand": "Ringside"
+    },
+    {
+      "id": 10,
+      "name": "Aparador de Chute VTT Thai Pads",
+      "category": "Equipamentos",
+      "price": 329.9,
+      "stock": 10,
+      "image": "https://images.unsplash.com/photo-1620188467120-5042ed1eb5da?w=700&h=860&fit=crop&auto=format&q=80",
+      "description": "Par de aparadores em couro sintético de alta densidade para treino de chute e joelhada em par.",
+      "brand": "Iron Fist"
+    },
+    {
+      "id": 11,
+      "name": "Protetor Bucal VTT Guard",
+      "category": "Proteção",
+      "price": 49.9,
+      "stock": 45,
+      "image": "https://images.unsplash.com/photo-1622599490476-f804e3092019?w=700&h=860&fit=crop&auto=format&q=80",
+      "description": "Moldável em água quente, encaixe individual, com case de transporte ventilado.",
+      "brand": "Combat Pro"
+    },
+    {
+      "id": 12,
+      "name": "Corda de Pular VTT Speed",
+      "category": "Equipamentos",
+      "price": 59.9,
+      "stock": 55,
+      "image": "https://images.unsplash.com/photo-1623874106686-5be2b325c8f1?w=700&h=860&fit=crop&auto=format&q=80",
+      "description": "Rolamento de esferas para giro rápido, cabo de aço revestido e comprimento ajustável.",
+      "brand": "Iron Fist"
+    }
+  ],
+  "users": [],
+  "orders": []
+}

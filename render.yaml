@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: vtt-api
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm run start:server
+    envVars:
+      - key: NODE_VERSION
+        value: 20
